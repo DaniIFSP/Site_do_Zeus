@@ -1,0 +1,108 @@
+*{
+    margin-top: 5px;
+    padding: 5px;
+}
+h1{
+    margin-top: -5px;
+}
+header{
+    display: flex;
+    justify-content: center;
+    height: 38px;
+    border-radius: 90px;
+    background-color: #000236;
+    color: white;
+    font-size: 15px;
+}
+#parte1{
+    display: flex;
+    justify-content:space-around;
+    font-size: 28px;
+    font-family: Noto serif;
+}
+#Zeus_seta{
+    margin-left: 350px;
+    display: flex;
+    align-items: center;
+}
+#Zeus_seta img{
+    margin-left: -50px;
+    margin-top: 140px;
+}
+#perfil_do_deus{
+    display: flex;
+    align-items: center;
+}
+#perfil_do_deus img{
+    margin-right: 40px;
+    width: 150px;
+    height: 150px;
+}
+#meio{
+    display: flex;
+    justify-content: center; 
+}
+#meio1{
+    display: flex;
+    justify-content: center;
+    width: 434px;
+    height: 40px;
+    background-color: #000236;
+    border-radius: 90px;
+    color: white;
+    font-size: 22px;
+}
+#descrição{
+    display: flex;
+    justify-content: baseline;
+}
+#descrição p{
+    margin-top: 40px;
+    margin-left: 20px;
+    text-align: justify;
+    font-size: 24px;
+    line-height: 30px;
+}
+#filmes{
+    display: flex;
+    justify-content: space-around;
+}
+#indicações{
+    font-size: 22px
+}
+#indicações li a{
+    color:black;
+    transition-duration: 2s;
+    text-decoration: none;
+} 
+#indicações li a:hover{
+    background-color: #a4a4ed;
+}
+#personagens{
+    width: 398px;
+    height: 375px;
+    background-color: #03033E;
+    border-radius: 50px;
+    color: white;
+    font-size: 22px;
+}
+#personagens h4{
+    display: flex;
+    justify-content: center;
+}
+#personagens ul{
+    margin-left: 50px;
+}
+#parte2{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+#meu_perfil{
+    display: flex;
+    justify-content: center;
+}
+#autora{
+    width: 355px;
+    height: 80px;
+}
